@@ -2,4 +2,4 @@
 
 A new Flutter project.
 
-![Login UIt](assets/login_ui.jpg "Mockup")
+![Login UI](assets/login_ui.jpg "Mockup")
